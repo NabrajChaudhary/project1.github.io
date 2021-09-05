@@ -1,0 +1,119 @@
+.newsa 
+{
+	background: #eeeeee;
+	padding: 30px 0px 30px 80px;
+	margin-bottom: 30px;
+
+}
+.newsa h2
+{
+	color: #000;
+	font-weight: bold;
+	font-size: 40px;
+	position: relative;
+	
+}
+
+.ulin2
+{
+	width: 70px;
+	height: 2px;
+	background: #000;
+	position: absolute;
+	
+}
+
+.ptp a
+{
+	color: #000;
+	text-decoration: none;
+}
+.ptp a span h4
+{
+	font-size: 26px;
+	line-height: 34px;
+	margin-bottom: 20px;
+	font-family: 'Roboto Slab', serif;
+	font-weight: 400;
+}
+
+.ptp a span p
+{
+	display: block;
+	font-size: 14px;
+	line-height: 20px;
+	margin-bottom: 10px;
+	color: #666;
+}
+
+.clcd 
+{
+	font-size: 13px;
+}
+
+.a23
+{
+	font-size: 12px;
+	&:hover{
+		text-decoration:underline;
+	}
+}
+
+.astr
+{
+	border-left: 1px solid #808080;
+	padding: 10px 30px;
+
+	
+}
+
+.astr a 
+{
+	font-family: 'Roboto Slab', serif;
+	color: #000;
+	text-decoration: none;
+}
+.astr a span h5
+{
+	font-weight: bolder;
+}
+
+.nti
+{
+	color: #666;
+	font-size: 14px;
+}
+
+.ulin3
+{
+	width: 60px;
+	background: #000;
+	height: 1.5px;
+}
+
+.eventa 
+{
+	background: #eeeeee;
+	padding: 30px 70px 30px 60px;
+	margin-bottom: 50px;
+	height: auto;
+	h2{
+	color: #000;
+	font-weight: bold;
+	font-size: 40px;
+	}
+}
+
+
+.pdee a
+{
+	text-decoration: none;
+	font-family: 'Open Sans', sans-serif;
+	color: #666;
+	font-size: 14px;
+	line-height: 25px;
+	&:hover{
+		color:#2179ed;
+	}
+}
+

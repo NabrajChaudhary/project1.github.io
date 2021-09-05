@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+body{
+	color: #000 !important;
+    font-family: 'Open Sans', sans-serif;
+   }
+   p{
+    font-family: 'Roboto', sans-serif;
+}
+
+@import 'nav';
+@import 'feat';
+@import 'serv';
+@import 'news';
+@import 'footerl';
+@import 'gallery';

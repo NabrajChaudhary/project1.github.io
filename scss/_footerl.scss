@@ -1,0 +1,53 @@
+.footero
+{
+	background: url(../img/footer-bg.jpg);
+	background-size: cover;
+	height: auto;
+	padding-bottom: 30px;
+}
+.img
+{
+	padding-left: 40px;
+}
+
+.finf
+{
+	padding-left: 90px;
+	color: #fff;
+}
+
+.finf p
+{
+	font-size: 17px;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 40px;
+}
+.finf ul
+{
+	list-style: none;
+	li{
+		a{
+			color: #fff;
+			text-decoration: none;
+			text-align: left;
+			font-size: 14px;
+			line-height: 35px;
+			padding: 20px 0px;
+		}
+	}
+}
+
+
+.footerlas
+{
+	padding-left: 70px;
+	padding-top: 25px;
+	color: #fff;
+	font-size: 13px;
+}
+
+.andsboot
+{
+	padding-left: 80px;
+}
